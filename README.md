@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with some **Android Projects**
 
-- 💬 Ask me about **CSS,JAVA,DSA;**
+- 💬 Ask me about **JAVA,DSA;**
 
 - 📫 How to reach me **ayushbhavsar299@gmail.com**
 
