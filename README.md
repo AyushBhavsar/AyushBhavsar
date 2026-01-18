@@ -1,7 +1,7 @@
 <img align="center" alt="coding" width="100%"  src="https://i.imgur.com/1ZvVkDc.gif">
 
 <h1 align="center">Ayush Bhavsar</h1>
-<h3 align="center">AI & Full-Stack Engineer | Java & MERN Developer</h3>
+<h3 align="center">AI & Full-Stack Engineer | Java Developer</h3>
 
 I build intelligent applications by combining **AI, backend engineering, and full-stack development**.  
 Focused on turning ML models into real, usable systems.
